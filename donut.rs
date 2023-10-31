@@ -22,4 +22,4 @@ G*h*a-g*e-H*h*c))as             i32;if 0<y&&y<22&&0
        )=R(0.04,e,a);(d,c)=R(0.02,d,c);std::
          thread::sleep(std::time::Duration
             ::from_millis(015));print!(
-                "\x1b[23A");}}//TJ!
+                "\x1b[23A")}}//oody
